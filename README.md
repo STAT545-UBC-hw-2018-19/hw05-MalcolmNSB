@@ -10,7 +10,9 @@ My repository is structured as follows:
 | [hw05.md](https://github.com/STAT545-UBC-students/hw04-MalcolmNSB/blob/master/hw05.md)   | the markdown file for homework 5   |
 | [hw05.rmd](https://github.com/STAT545-UBC-students/hw04-MalcolmNSB/blob/master/hw05.Rmd) | the R-markdown file for homework 5   |
 | README.md | the file you are reading right now |
-|Others| Other files which are associated to the ones above|
+|[mean_life.csv](https://github.com/STAT545-UBC-students/hw05-MalcolmNSB/blob/master/mean_life.csv) | column separated values file associated to hw05|
+|[my_plot.png](https://github.com/STAT545-UBC-students/hw05-MalcolmNSB/blob/master/my_plot.png)| plot associated to hw05|
+
 
 
 ## Useful links
